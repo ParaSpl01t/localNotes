@@ -14,6 +14,8 @@ $bg-l: lighten($bg, 4%);
 $border: lighten($bg, 8%);
 $hover: rgba($light, 50%);
 
+$br: 2px;
+
 @mixin primary {
 	color: $light;
 	background-color: $primary;
@@ -41,7 +43,7 @@ $hover: rgba($light, 50%);
 	padding: 0;
 	font-size: 16px;
 	height: 48px;
-	border-radius: 2px;
+	border-radius: $br;
 	cursor: pointer;
 	@include focus;
 
@@ -90,13 +92,13 @@ body {
 
 	.form {
 		background-color: $bg-l;
-		padding: 48px 24px;
+		padding: 24px 24px;
 		gap: 24px;
 		width: 100%;
 		max-width: 400px;
 		display: flex;
 		flex-direction: column;
-		border-radius: 2px;
+		border-radius: $br;
 
 		.input {
 			display: flex;
@@ -114,7 +116,7 @@ body {
 				height: 48px;
 				padding: 0 16px;
 				background-color: $bg;
-				border-radius: 2px;
+				border-radius: $br;
 			}
 		}
 		.buttons {
@@ -205,7 +207,7 @@ section {
 			font-weight: 400;
 			font-size: 14px;
 			background-color: $bg-l;
-			border-radius: 2px;
+			border-radius: $br;
 			opacity: 0.8;
 		}
 	}
@@ -246,7 +248,7 @@ footer {
 		padding: 0 8px;
 		height: 100%;
 		background-color: $bg-l;
-		border-radius: 2px;
+		border-radius: $br;
 		line-height: 1;
 	}
 }
