@@ -1,0 +1,213 @@
+[
+	{
+		"name": "Web Development",
+		"slug": "web-development",
+		"sub": "Get your Startup online",
+		"description": "From frontend to backend, testing to production, blog to E-commerce, we got you covered.",
+		"image": "https://picsum.photos/id/6/400/500",
+		"points": [
+			{
+				"title": "Languages: Node.js, PHP, Python",
+				"subtitle": "Different projects have different requirements. Our team works on and keeps up to date with various languages like Node.js, PHP, Python, Go and more."
+			},
+			{
+				"title": "Vue, React, Angular or custom framework",
+				"subtitle": "We are experts at every major backend and frontend framework there is. Including Vue, React, Svelte, Nuxt, Next, Angular, Bootstrap, Tailwind, jQuery and more."
+			},
+			{
+				"title": "Databases: MySql, MongoDB, Firebase",
+				"subtitle": "Every growing startup needs a strong and scalable database. That's why we offer development and migration services for every major database."
+			},
+			{
+				"title": "100% SEO score.",
+				"subtitle": "We believe our customers deserve the best. That's why our smallest of plans provide on page optimization and SEO by default."
+			}
+		]
+	},
+	{
+		"name": "App Development",
+		"slug": "app-development",
+		"sub": "Your business on everyone's hands",
+		"description": "From startup to E-commerce, we got you covered. We develop Android and iOS apps at affordable price.",
+		"image": "https://picsum.photos/id/16/400/500",
+		"points": [
+			{
+				"title": "Android & iOS supported",
+				"subtitle": "With the smartphones leading the internet. It's time to build your business by targeting the most active and huge part of internet users."
+			},
+			{
+				"title": "Scalable backend",
+				"subtitle": "Ten Thousand users? Million users? Ten million? Doesn't matter. Stay prepared for the incoming customer boost with our scalable backend and database."
+			},
+			{
+				"title": "Get your app running in no time.",
+				"subtitle": "The lowest planning to deployment time in market. Get you app running and start acquiring customers in no time."
+			},
+			{
+				"title": "Free maintainence for 4 weeks.",
+				"subtitle": "That's right. We provide free maintainence for weeks even after the project is complete. Which can be extended on demand."
+			}
+		]
+	},
+	{
+		"name": "Digital Merketing",
+		"slug": "digital-marketing",
+		"sub": "The boost your brand need",
+		"description": "A great product requires great marketing. We handle all the hassle related to SEO, SMO and Ad campaign while you focus on your product :)",
+		"image": "https://picsum.photos/id/26/400/500",
+		"points": [
+			{
+				"title": "Best in industry SEO & SMO strategies.",
+				"subtitle": "Get the market to notice your business the right way. We have the best online approach."
+			},
+			{
+				"title": "Lead generation at your fingertips.",
+				"subtitle": "We work with the most accurate and reliable data sources to get you the best leads and sales."
+			},
+			{
+				"title": "Super optimised Ad campaigns",
+				"subtitle": "The most optimised campaign strategies. We study and look out for every single aspect of the market to get the most benificial targeting group."
+			}
+		]
+	},
+	{
+		"name": "Game Development",
+		"slug": "game-development",
+		"sub": "Game on!",
+		"description": "With the rise of Internet, comes the rise of Multiplayer Games. Grab the opportunity with ease.",
+		"image": "https://picsum.photos/id/36/400/500",
+		"points": [
+			{
+				"title": "2D and 3D development",
+				"subtitle": "The players will get the most immersive gaming experience with beautifully crafted graphics and sound design."
+			},
+			{
+				"title": "Customised backend and database",
+				"subtitle": "Scalable and most reliable database management to handle millions of users and hours of gameplay."
+			},
+			{
+				"title": "Fast response time with sockets",
+				"subtitle": "Game without network Lags. Our team optimizes the client-server connection to ensure smooth and lag-free gameplay."
+			},
+			{
+				"title": "Payment portal integration",
+				"subtitle": "One time payment or Recurring subcription. Multiple payment gateway integrations including razorpay, payU and more. "
+			}
+		]
+	},
+	{
+		"name": "Software Development",
+		"slug": "software-development",
+		"sub": "Customised for your business",
+		"description": "Every type of custom software for Individuals, Startups and Large businesses.",
+		"image": "https://picsum.photos/id/46/400/500",
+		"points": [
+			{
+				"title": "Windows, Linux &amp; Mac supported.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Affordable pricing",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Customised for client's preference.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Free maintainence for 4 weeks.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			}
+		]
+	},
+	{
+		"name": "CRM & HRM",
+		"slug": "crm-hrm",
+		"sub": "Easy relationship management",
+		"description": "Custom CRM/HRM for every type of workflow, Easy module management and infinite customisation.",
+		"image": "https://picsum.photos/id/56/400/500",
+		"points": [
+			{
+				"title": "Extensible modules.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Customised modules on demand.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Easy integration of third party modules and APIs",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Free maintainence for 4 weeks.",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			}
+		]
+	},
+	{
+		"name": "UI/UX Designing",
+		"slug": "ui-ux-designing",
+		"sub": "Beautiful designfor beautiful brand.",
+		"description": "The most important step after business planning. Leave UI/UX study and development to us.",
+
+		"image": "https://picsum.photos/id/66/400/500",
+		"points": [
+			{
+				"title": "UI for mobile and desktop",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "UX study and research",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "UI redesign",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			}
+		]
+	},
+	{
+		"name": "Testing",
+		"slug": "testing",
+		"sub": "Keeps you mind at ease",
+		"description": "Weather it's a mobile app, web app or a desktop software, we specialize in manual and automation testing both.",
+
+		"image": "https://picsum.photos/id/76/400/500",
+		"points": [
+			{
+				"title": "Backend and API testing",
+				"subtitle": "Get the best"
+			},
+			{
+				"title": "Visual and Runtime bugs detection",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			},
+			{
+				"title": "Testing automation using best in industry tools",
+				"subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea fuga neque a omnis debitis minus incidunt sed soluta ipsa quibusdam?"
+			}
+		]
+	},
+	{
+		"name": "Blockchain",
+		"slug": "blockchain",
+		"sub": "The future is here",
+		"description": "Why invest in crypto when you can create your own. Explore services like NFTs, crypto, decentralization and more.",
+		"image": "https://picsum.photos/id/75/400/500",
+		"points": [
+			{
+				"title": "Decenteralized system",
+				"subtitle": "Create a decentralized system to get the blockchain benifits like - Security, availablity and integrity."
+			},
+			{
+				"title": "Coin development",
+				"subtitle": "Your own currency, your own market."
+			},
+			{
+				"title": "NFTs",
+				"subtitle": "NTFs (Non-Fungible Token) provides a secure way of recording the sales transction on the blockchain."
+			}
+		]
+	}
+]
